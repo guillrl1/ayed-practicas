@@ -13,3 +13,19 @@ Implementación en C++ de la clase `rational_t` para trabajar con números racio
 ## Autor
 
 Guillermo López Concepción
+
+
+## Contenido
+
+- [`PR2`](./PR2)
+- [`PR3`](./PR3)
+- [`PR4`](./PR4)
+- [`PR5`](./PR5)
+- [`PR6`](./PR6)
+- [`Practica1`](./Practica1)
+- [`SLL`](./SLL)
+- [`TAD-cola`](./TAD-cola)
+- [`TAD-lista-doblemente-enlazada`](./TAD-lista-doblemente-enlazada)
+- [`TAD-pila`](./TAD-pila)
+- [`clases-PA`](./clases-PA)
+- [`recursividad`](./recursividad)
